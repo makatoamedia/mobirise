@@ -1,0 +1,20 @@
+@font-face {
+   font-family: 'FutuBk';
+   src: url('FutuBk/font.ttf');
+}
+@font-face {
+   font-family: 'FutuBkIt';
+   src: url('FutuBkIt/font.ttf');
+}
+@font-face {
+   font-family: 'Futura_20Medium_20BT';
+   src: url('Futura_20Medium_20BT/font.ttf');
+}
+@font-face {
+   font-family: 'FuturaBookBT';
+   src: url('FuturaBookBT/font.ttf');
+}
+@font-face {
+   font-family: 'FuturaBookItalicBT';
+   src: url('FuturaBookItalicBT/font.ttf');
+}
