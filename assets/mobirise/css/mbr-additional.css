@@ -4250,9 +4250,22 @@ body {
   background-color: #1a332a;
 }
 .cid-rvGouLOkUi .mbr-section-subtitle {
-  color: #767676;
+  color: #ffffff;
 }
 .cid-rvGouLOkUi H2 {
+  color: #ffffff;
+}
+.cid-rvGzc8EmKX {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #1a332a;
+}
+.cid-rvGzc8EmKX .mbr-text,
+.cid-rvGzc8EmKX blockquote {
+  color: #767676;
+}
+.cid-rvGzc8EmKX .mbr-text {
+  text-align: center;
   color: #ffffff;
 }
 .cid-rvFP3aWtv5 {
