@@ -66,11 +66,13 @@
         "file": "@PROJECT_PATH@/fonts/FuturaBookItalicBT/font.ttf"
       }
     ],
-    "uniqCompNum": 8,
+    "uniqCompNum": 4,
     "versionPublish": "4.10.7",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-makatoa-blanco-sobre-negro-128x211.png",
-    "noImageResize": ""
+    "noImageResize": "",
+    "google-analytics": "",
+    "gdpr": ""
   },
   "pages": {
     "index.html": {
