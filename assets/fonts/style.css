@@ -1,20 +1,25 @@
 @font-face {
    font-family: 'FutuBk';
+   font-display: swap;
    src: url('FutuBk/font.ttf');
 }
 @font-face {
    font-family: 'FutuBkIt';
+   font-display: swap;
    src: url('FutuBkIt/font.ttf');
 }
 @font-face {
    font-family: 'Futura_20Medium_20BT';
+   font-display: swap;
    src: url('Futura_20Medium_20BT/font.ttf');
 }
 @font-face {
    font-family: 'FuturaBookBT';
+   font-display: swap;
    src: url('FuturaBookBT/font.ttf');
 }
 @font-face {
    font-family: 'FuturaBookItalicBT';
+   font-display: swap;
    src: url('FuturaBookItalicBT/font.ttf');
 }
